@@ -1,0 +1,31 @@
+age,gender,race,education,years_experience,previous_salary,hired,job_title
+45,Male,White,Bachelor,12,85000,Yes,Manager
+28,Female,Black,Master,4,52000,No,Analyst
+32,Male,White,Bachelor,8,70000,Yes,Engineer
+52,Female,Asian,PhD,20,90000,No,Director
+24,Male,Hispanic,Bachelor,1,40000,No,Junior Dev
+38,Male,White,Bachelor,14,95000,Yes,Manager
+29,Female,White,Master,5,58000,No,Analyst
+41,Male,Black,Bachelor,16,72000,No,Engineer
+35,Female,White,Master,10,65000,Yes,Senior Analyst
+48,Male,White,Bachelor,22,102000,Yes,Director
+26,Female,Hispanic,Bachelor,2,38000,No,Junior Dev
+33,Male,Asian,Master,9,78000,Yes,Engineer
+55,Female,Black,Bachelor,25,68000,No,Manager
+30,Male,White,Bachelor,6,62000,Yes,Analyst
+42,Female,White,PhD,18,88000,Yes,Senior Manager
+27,Male,Black,Master,3,45000,No,Analyst
+39,Female,Asian,Bachelor,13,71000,No,Engineer
+44,Male,White,Bachelor,19,98000,Yes,Manager
+31,Female,Hispanic,Master,7,55000,No,Senior Analyst
+36,Male,White,Bachelor,11,80000,Yes,Engineer
+23,Female,Black,Bachelor,0,32000,No,Junior Dev
+50,Male,White,Master,24,110000,Yes,Director
+34,Female,White,Bachelor,9,60000,Yes,Analyst
+47,Male,Asian,PhD,21,95000,Yes,Manager
+29,Female,Hispanic,Bachelor,4,42000,No,Junior Dev
+37,Male,White,Bachelor,13,85000,Yes,Engineer
+53,Female,Black,Master,26,75000,No,Director
+25,Male,White,Bachelor,1,41000,No,Junior Dev
+40,Female,White,Master,15,79000,Yes,Senior Analyst
+43,Male,Black,Bachelor,17,73000,No,Manager
