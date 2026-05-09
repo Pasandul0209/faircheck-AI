@@ -25,7 +25,7 @@ except:
 
 # ── Header ────────────────────────────────────────────────────────────────────
 st.title("⚖️ FairCheck AI")
-st.markdown("<p style='font-size:13px; color:gray; margin-top:-15px;'>by Colon DoubleSlash</p>", unsafe_allow_html=True)
+st.markdown("<p style='font-size:13px; color:gray; margin-top:-20px; padding-left:0px;'>by Colon DoubleSlash</p>", unsafe_allow_html=True)
 st.subheader("Detect & Fix Bias in Your Dataset — Powered by Google Gemini")
 st.markdown("---")
 
