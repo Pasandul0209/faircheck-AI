@@ -24,8 +24,7 @@ except:
     api_key = None
 
 # ── Header ────────────────────────────────────────────────────────────────────
-st.title("⚖️ FairCheck AI")
-st.markdown("<p style='font-size:13px; color:gray; margin-top:-20px; padding-left:0px;'>by Colon DoubleSlash</p>", unsafe_allow_html=True)
+st.markdown("<h1 style='display:inline;'>⚖️ FairCheck AI</h1> <span style='font-size:16px; color:gray;'>by Colon DoubleSlash</span>", unsafe_allow_html=True)
 st.subheader("Detect & Fix Bias in Your Dataset — Powered by Google Gemini")
 st.markdown("---")
 
