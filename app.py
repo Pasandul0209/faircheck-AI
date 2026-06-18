@@ -72,7 +72,7 @@ if analyse_btn:
     if api_key is None:
         st.error("❌ App configuration error. Please contact the app owner.")
     elif df is None:
-        st.error("❌ Please upload a CSV file first.")
+        st.error("❌ Please  upload a CSV file first.")
     else:
         with st.spinner("🤖 Gemini AI is analysing your dataset for bias... please wait 20-30 seconds"):
             try:
