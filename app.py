@@ -4,7 +4,7 @@ from google import genai
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="FairCheckAI – Bias Detector",
+    page_title="FairCheck AI – Bias Detector",
     page_icon="⚖️",
     layout="centered"
 )
