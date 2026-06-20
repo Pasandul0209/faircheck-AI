@@ -74,7 +74,7 @@ if analyse_btn:
     elif df is None:
         st.error("❌ Please  upload a CSV file first.")
     else:
-        with st.spinner("🤖 Gemini AI is analysing your dataset for bias... please wait 20-30 seconds"):
+        with st.spinner("🤖 Gemini AI is analysing your dataset for bias... please wait 20 seconds"):
             try:
                 client = genai.Client(api_key=api_key)
 
