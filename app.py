@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from google import genai
 
-# ── Page config ──────────────────────────────────────────────────────────────
+# Page config 
 st.set_page_config(
     page_title="Fair Check AI – Bias Detector",
     page_icon="⚖️",
