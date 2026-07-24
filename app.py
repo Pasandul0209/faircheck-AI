@@ -17,7 +17,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# ── Get API key from Streamlit secrets (hidden from users) ────────────────────
+# Get API key from Streamlit secrets (hidden from users) 
 try:
     api_key = st.secrets["GEMINI_API_KEY"]
 except:
